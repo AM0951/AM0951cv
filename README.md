@@ -4,8 +4,8 @@ AM0951cv
 <html>
 <head>
 <style>
-h1{text-align:center;color:blue;font-size: 40px;}
-h2{text-align:left;font-size: 30px;}
+h1{text-align:center;color:blue;font-size: 30px;}
+h2{text-align:left;font-size: 20px;}
 p{text-align:left;font-size:20px;}
 </style>
 </head>
@@ -40,4 +40,4 @@ Professional Career
 
 </p>
 </body>
-<>/html
+</html>
