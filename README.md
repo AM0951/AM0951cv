@@ -18,7 +18,7 @@ Personal Information
 </b></h2>
 
 <p>
-Last name:      Lazaros</br>
+Last name:      Lazaros"/n"
 First name:     Koiou</br>
 Adress:         -</br>
 Phone:          -</br>
