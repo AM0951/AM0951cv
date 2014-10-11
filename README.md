@@ -1,6 +1,6 @@
 AM0951cv
 ========
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
